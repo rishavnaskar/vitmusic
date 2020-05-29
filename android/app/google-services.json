@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964178391591",
+    "firebase_url": "https://melomane-108f4.firebaseio.com",
+    "project_id": "melomane-108f4",
+    "storage_bucket": "melomane-108f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964178391591:android:a48d2dda969fa344279402",
+        "android_client_info": {
+          "package_name": "com.rishav.vitmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964178391591-ts6mkrrocl1kr9t9l1p62gsoafh4n6ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rishav.vitmusic",
+            "certificate_hash": "9db809c835f76af3a398ec7b7037d299b9cfd46c"
+          }
+        },
+        {
+          "client_id": "964178391591-2kl7u7pvetsu09f48ilohebpj3gsrfrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwdjFWLjCdILyoS-nAGBl0sOEMBysD0pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964178391591-2kl7u7pvetsu09f48ilohebpj3gsrfrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
